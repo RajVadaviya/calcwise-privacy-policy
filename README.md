@@ -56,7 +56,7 @@ Data Security
 
 Since the application does not collect or transmit personal information, there is no risk of data exposure from developer systems.
 
-Changes to This Privacy Policy
+Changes to This Privacy Policy.
 
 This Privacy Policy may be updated from time to time.
 
