@@ -67,3 +67,4 @@ Contact Information
 If you have any questions or concerns regarding this Privacy Policy, you may contact us at:
 
 Email: rajvadaviya1@gmail.com
+
